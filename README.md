@@ -10,7 +10,7 @@ This repository contains supplementary artifacts (code + paper) of SWLE, a novel
 
 
 
-This supplementary artifacts accompanies the paper:
+This supplementary artifacts accompany the paper:
 
 **"Reputation-Based Leader Election under Partial Synchrony: Towards a Protocol-Independent Abstraction with Enhanced Guarantees"**
 
